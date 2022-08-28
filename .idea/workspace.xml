@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b22cad-4fde-473e-946a-1e81f1045c85" name="Changes" comment="Add Maven surefire plugin">
+    <list default="true" id="60b22cad-4fde-473e-946a-1e81f1045c85" name="Changes" comment="Intentionally fail the test">
       <change beforePath="$PROJECT_DIR$/src/test/java/com/driver/test/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/driver/test/VehicleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661652034215</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Intentionally fail the test">
+      <created>1661652171744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661652171744</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add Vehicle and VehicleTest" />
     <MESSAGE value="Add Maven surefire plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Maven surefire plugin" />
+    <MESSAGE value="Intentionally fail the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intentionally fail the test" />
   </component>
 </project>
