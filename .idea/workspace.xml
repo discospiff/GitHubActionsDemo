@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b22cad-4fde-473e-946a-1e81f1045c85" name="Changes" comment="Fix the test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="60b22cad-4fde-473e-946a-1e81f1045c85" name="Changes" comment="Exclude a Test">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661652289114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exclude a Test">
+      <created>1661662571993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661662571993</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +131,7 @@
     <MESSAGE value="Add Maven surefire plugin" />
     <MESSAGE value="Intentionally fail the test" />
     <MESSAGE value="Fix the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the test" />
+    <MESSAGE value="Exclude a Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exclude a Test" />
   </component>
 </project>
